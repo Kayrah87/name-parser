@@ -1,14 +1,14 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
-use TheIconic\NameParser\LanguageInterface;
-use TheIconic\NameParser\Part\AbstractPart;
-use TheIconic\NameParser\Part\Lastname;
-use TheIconic\NameParser\Part\LastnamePrefix;
-use TheIconic\NameParser\Part\Nickname;
-use TheIconic\NameParser\Part\Salutation;
-use TheIconic\NameParser\Part\Suffix;
+use Kayrah87\NameParser\LanguageInterface;
+use Kayrah87\NameParser\Part\AbstractPart;
+use Kayrah87\NameParser\Part\Lastname;
+use Kayrah87\NameParser\Part\LastnamePrefix;
+use Kayrah87\NameParser\Part\Nickname;
+use Kayrah87\NameParser\Part\Salutation;
+use Kayrah87\NameParser\Part\Suffix;
 
 class LastnameMapper extends AbstractMapper
 {

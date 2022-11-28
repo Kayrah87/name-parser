@@ -1,9 +1,9 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
-use TheIconic\NameParser\Part\Salutation;
-use TheIconic\NameParser\Part\Nickname;
+use Kayrah87\NameParser\Part\Salutation;
+use Kayrah87\NameParser\Part\Nickname;
 
 class NicknameMapperTest extends AbstractMapperTest
 {

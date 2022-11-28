@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "The Iconic",
-            "email": "engineering@theiconic.com.au"
+            "email": "engineering@Kayrah87.com.au"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TheIconic\\NameParser\\": ["src/", "tests/"]
+            "Kayrah87\\NameParser\\": ["src/", "tests/"]
         }
     }
 }

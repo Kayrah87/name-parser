@@ -1,16 +1,16 @@
 <?php
 
-namespace TheIconic\NameParser;
+namespace Kayrah87\NameParser;
 
 use PHPUnit\Framework\TestCase;
-use TheIconic\NameParser\Part\Firstname;
-use TheIconic\NameParser\Part\Initial;
-use TheIconic\NameParser\Part\Lastname;
-use TheIconic\NameParser\Part\LastnamePrefix;
-use TheIconic\NameParser\Part\Middlename;
-use TheIconic\NameParser\Part\Nickname;
-use TheIconic\NameParser\Part\Salutation;
-use TheIconic\NameParser\Part\Suffix;
+use Kayrah87\NameParser\Part\Firstname;
+use Kayrah87\NameParser\Part\Initial;
+use Kayrah87\NameParser\Part\Lastname;
+use Kayrah87\NameParser\Part\LastnamePrefix;
+use Kayrah87\NameParser\Part\Middlename;
+use Kayrah87\NameParser\Part\Nickname;
+use Kayrah87\NameParser\Part\Salutation;
+use Kayrah87\NameParser\Part\Suffix;
 
 class NameTest extends TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
 use PHPUnit\Framework\TestCase;
 

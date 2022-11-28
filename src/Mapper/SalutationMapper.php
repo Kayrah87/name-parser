@@ -1,9 +1,9 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
-use TheIconic\NameParser\Part\AbstractPart;
-use TheIconic\NameParser\Part\Salutation;
+use Kayrah87\NameParser\Part\AbstractPart;
+use Kayrah87\NameParser\Part\Salutation;
 
 class SalutationMapper extends AbstractMapper
 {

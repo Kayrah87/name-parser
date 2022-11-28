@@ -1,11 +1,11 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
-use TheIconic\NameParser\Language\English;
-use TheIconic\NameParser\Part\Lastname;
-use TheIconic\NameParser\Part\Firstname;
-use TheIconic\NameParser\Part\Suffix;
+use Kayrah87\NameParser\Language\English;
+use Kayrah87\NameParser\Part\Lastname;
+use Kayrah87\NameParser\Part\Firstname;
+use Kayrah87\NameParser\Part\Suffix;
 
 class SuffixMapperTest extends AbstractMapperTest
 {

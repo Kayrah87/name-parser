@@ -1,12 +1,12 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
-use TheIconic\NameParser\Language\English;
-use TheIconic\NameParser\Part\Salutation;
-use TheIconic\NameParser\Part\Firstname;
-use TheIconic\NameParser\Part\Lastname;
-use TheIconic\NameParser\Part\LastnamePrefix;
+use Kayrah87\NameParser\Language\English;
+use Kayrah87\NameParser\Part\Salutation;
+use Kayrah87\NameParser\Part\Firstname;
+use Kayrah87\NameParser\Part\Lastname;
+use Kayrah87\NameParser\Part\LastnamePrefix;
 
 class LastnameMapperTest extends AbstractMapperTest
 {

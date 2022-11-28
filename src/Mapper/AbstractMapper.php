@@ -1,9 +1,9 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
-use TheIconic\NameParser\Part\AbstractPart;
-use TheIconic\NameParser\Part\Nickname;
+use Kayrah87\NameParser\Part\AbstractPart;
+use Kayrah87\NameParser\Part\Nickname;
 
 abstract class AbstractMapper
 {

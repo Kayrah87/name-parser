@@ -1,11 +1,11 @@
 <?php
 
-namespace TheIconic\NameParser\Mapper;
+namespace Kayrah87\NameParser\Mapper;
 
-use TheIconic\NameParser\Language\English;
-use TheIconic\NameParser\Part\Initial;
-use TheIconic\NameParser\Part\Salutation;
-use TheIconic\NameParser\Part\Lastname;
+use Kayrah87\NameParser\Language\English;
+use Kayrah87\NameParser\Part\Initial;
+use Kayrah87\NameParser\Part\Salutation;
+use Kayrah87\NameParser\Part\Lastname;
 
 class InitialMapperTest extends AbstractMapperTest
 {
