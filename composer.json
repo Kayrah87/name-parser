@@ -1,12 +1,16 @@
 {
     "name": "kayrah87/name-parser",
-    "description": "PHP library for parsing a string containing a full name into its parts",
+    "description": "Fork of TheIconic PHP library for parsing a string containing a full name into its parts",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "The Iconic",
-            "email": "engineering@Kayrah87.com.au"
+            "email": "engineering@TheIconic.com.au"
+        },
+        {
+            "name": "Kayrah87",
+            "email": "unconditional.evil@gmail.com"
         }
     ],
     "require": {
